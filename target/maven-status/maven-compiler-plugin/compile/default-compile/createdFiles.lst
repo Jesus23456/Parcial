@@ -1,0 +1,5 @@
+pe\isil\Parcial\newpackage\usuario\controler\EditUserServlet.class
+pe\isil\Parcial\newpackage\usuario\dao\mysql\mysqlConnection.class
+pe\isil\Parcial\newpackage\usuario\controler\UserServlet.class
+pe\isil\Parcial\newpackage\usuario\dao1\usuarioDao.class
+pe\isil\Parcial\newpackage\usuario\model\Usuario.class
